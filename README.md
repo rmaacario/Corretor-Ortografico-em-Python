@@ -1,4 +1,4 @@
-# Construção de um Corretor Ortográfico em Python
+# Construção de um Corretor Ortográfico em Python 🐍🚀
 
 ## Introdução
 Este projeto foi desenvolvido como parte do curso de Processamento de Linguagem Natural (NLP) na Alura. O objetivo principal é construir um corretor ortográfico simples em Python usando técnicas de processamento de texto e probabilidades.
